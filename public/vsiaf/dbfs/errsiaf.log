@@ -1,0 +1,41 @@
+
+ERROR en  19:53:37   14/01/2013
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         198   DO c:\vsiaf\vsiaf.exe
+
+  numero:           1   El archivo 'passw.dbf' no existe.
+variable:  
+
+
+=================================================================
+
+ERROR en  19:53:38   14/01/2013
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         199   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'AUXPASS'.
+variable:  
+
+
+=================================================================
+
+ERROR en  19:57:16   14/01/2013
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         198   DO c:\vsiaf\vsiaf.exe
+
+  numero:        1806   SQL: no se encuentra la columna 'PSW'.
+variable:  
+
+
+=================================================================
+
+ERROR en  19:57:17   14/01/2013
+programa:  FRSMAIN1.PRINCIPAL.LOAD
+   linea:         199   DO c:\vsiaf\vsiaf.exe
+
+  numero:          13   No se encuentra el alias 'AUXPASS'.
+variable:  
+
+
+=================================================================
+
